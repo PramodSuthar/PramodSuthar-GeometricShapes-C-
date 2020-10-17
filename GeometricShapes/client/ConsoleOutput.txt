@@ -1,0 +1,270 @@
+﻿
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 1
+
+ Enter a serial number for the shape to search for: 11
+Shape not found
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 1
+
+ Enter a serial number for the shape to search for: 1
+Shape found 1, rose, Square the area is : 25
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 4
+
+ Shapes List.
+1, rose, Square the area is : 25
+2, violet, Square the area is : 144
+3, green, Circle the area is : 12.56
+4, yellow, Circle the area is : 153.86
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 5
+
+ Squares List.
+1, rose, Square the area is : 25
+2, violet, Square the area is : 144
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 6
+
+ Circless List.
+3, green, Circle the area is : 12.56
+4, yellow, Circle the area is : 153.86
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 2
+
+ Enter a serial number for the shape to update: 22
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 2
+
+ Enter a serial number for the shape to update: 1
+Enter the new color:
+YELLOW-PURPLE
+SHAPE UPDATED
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 4
+
+ Shapes List.
+1, YELLOW-PURPLE, Square the area is : 25
+2, violet, Square the area is : 144
+3, green, Circle the area is : 12.56
+4, yellow, Circle the area is : 153.86
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 5
+
+ Squares List.
+1, YELLOW-PURPLE, Square the area is : 25
+2, violet, Square the area is : 144
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 2
+
+ Enter a serial number for the shape to update: 4
+Enter the new color:
+BLUE-ROSE
+SHAPE UPDATED
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 4
+
+ Shapes List.
+1, YELLOW-PURPLE, Square the area is : 25
+2, violet, Square the area is : 144
+3, green, Circle the area is : 12.56
+4, BLUE-ROSE, Circle the area is : 153.86
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 3
+
+ Enter a serial number of the shape to remove: 33
+
+ Shape not found
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 3
+
+ Enter a serial number of the shape to remove: 3
+
+ Shape found  4, BLUE-ROSE, Circle the area is : 153.86
+ Shape REMOVED
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 4
+
+ Shapes List.
+1, YELLOW-PURPLE, Square the area is : 25
+2, violet, Square the area is : 144
+4, BLUE-ROSE, Circle the area is : 153.86
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 5
+
+ Squares List.
+1, YELLOW-PURPLE, Square the area is : 25
+2, violet, Square the area is : 144
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 6
+
+ Circless List.
+4, BLUE-ROSE, Circle the area is : 153.86
+
+
+        ****************************
+        ***  1 - Search          ***
+        ***  2 - Update          ***
+        ***  3 - Remove          ***
+        ***  4 - Print shapes    ***
+        ***  5 - Print squares   ***
+        ***  6 - Print circles   ***
+        ***  7 - Exit            ***
+        *****************************
+                 Enter your choice: 7
+<<<<<<<<<<<<<<<<<<<<<<<END>>>>>>>>>>>>>>>>>

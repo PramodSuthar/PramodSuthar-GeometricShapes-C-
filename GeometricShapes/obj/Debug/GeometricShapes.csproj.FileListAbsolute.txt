@@ -1,0 +1,79 @@
+C:\Users\YASHAR\source\repos\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\YASHAR\source\repos\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\YASHAR\source\repos\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\YASHAR\source\repos\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csprojAssemblyReference.cache
+C:\Users\YASHAR\source\repos\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\YASHAR\source\repos\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\YASHAR\Desktop\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\YASHAR\Desktop\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\YASHAR\Desktop\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\YASHAR\Desktop\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csprojAssemblyReference.cache
+C:\Users\YASHAR\Desktop\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\YASHAR\Desktop\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\March 23- Online Class\Solutions\GeometricShapes1\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\Expo\Desktop\March 23- Online Class\Solutions\GeometricShapes1\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\March 23- Online Class\Solutions\GeometricShapes1\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\March 23- Online Class\Solutions\GeometricShapes1\GeometricShapes\obj\Debug\GeometricShapes.csprojAssemblyReference.cache
+C:\Users\Expo\Desktop\March 23- Online Class\Solutions\GeometricShapes1\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\Expo\Desktop\March 23- Online Class\Solutions\GeometricShapes1\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\March 23- Online Class\Solutions\GeometricShapes1\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\March 23- Online Class\2LEA -Shapes-Soluution\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\Expo\Desktop\March 23- Online Class\2LEA -Shapes-Soluution\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\March 23- Online Class\2LEA -Shapes-Soluution\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\March 23- Online Class\2LEA -Shapes-Soluution\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csprojAssemblyReference.cache
+C:\Users\Expo\Desktop\March 23- Online Class\2LEA -Shapes-Soluution\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\Expo\Desktop\March 23- Online Class\2LEA -Shapes-Soluution\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\March 23- Online Class\2LEA -Shapes-Soluution\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\15147\Desktop\Tania College Lasalle\C#\Week 11 - Geometric Shapes -- Solution\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\15147\Desktop\Tania College Lasalle\C#\Week 11 - Geometric Shapes -- Solution\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\15147\Desktop\Tania College Lasalle\C#\Week 11 - Geometric Shapes -- Solution\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\15147\Desktop\Tania College Lasalle\C#\Week 11 - Geometric Shapes -- Solution\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csprojAssemblyReference.cache
+C:\Users\15147\Desktop\Tania College Lasalle\C#\Week 11 - Geometric Shapes -- Solution\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\15147\Desktop\Tania College Lasalle\C#\Week 11 - Geometric Shapes -- Solution\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\Expo\Downloads\Antokhine_1934431_Week_11-_FT_02_-_Geo_Submitted_on_2020-03-26_00h04m07s\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\Expo\Downloads\Antokhine_1934431_Week_11-_FT_02_-_Geo_Submitted_on_2020-03-26_00h04m07s\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\Expo\Downloads\Antokhine_1934431_Week_11-_FT_02_-_Geo_Submitted_on_2020-03-26_00h04m07s\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\Expo\Downloads\Antokhine_1934431_Week_11-_FT_02_-_Geo_Submitted_on_2020-03-26_00h04m07s\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\Expo\Downloads\Antokhine_1934431_Week_11-_FT_02_-_Geo_Submitted_on_2020-03-26_00h04m07s\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\Expo\Downloads\Antokhine_1934431_Week_11-_FT_02_-_Geo_Submitted_on_2020-03-26_00h04m07s\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\Expo\Downloads\Antokhine_1934431_Week_11-_FT_02_-_Geo_Submitted_on_2020-03-26_00h04m07s\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csprojAssemblyReference.cache
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csprojAssemblyReference.cache
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\2LEA\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\2LEA\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\2LEA\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\2LEA\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csprojAssemblyReference.cache
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\2LEA\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\2LEA\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\30Mars2020-CT2-Solution Shapes\2LEA\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\Expo\Downloads\Week_12_-_Demo_01_-_Shapes_With_CRUD (1)\Week 12 - Demo 01 - Shapes With CRUD\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\Expo\Downloads\Week_12_-_Demo_01_-_Shapes_With_CRUD (1)\Week 12 - Demo 01 - Shapes With CRUD\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\Expo\Downloads\Week_12_-_Demo_01_-_Shapes_With_CRUD (1)\Week 12 - Demo 01 - Shapes With CRUD\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\Expo\Downloads\Week_12_-_Demo_01_-_Shapes_With_CRUD (1)\Week 12 - Demo 01 - Shapes With CRUD\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\Expo\Downloads\Week_12_-_Demo_01_-_Shapes_With_CRUD (1)\Week 12 - Demo 01 - Shapes With CRUD\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\Expo\Downloads\Week_12_-_Demo_01_-_Shapes_With_CRUD (1)\Week 12 - Demo 01 - Shapes With CRUD\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\02 Avril 2020- Vorrections FTs\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\Expo\Desktop\02 Avril 2020- Vorrections FTs\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\02 Avril 2020- Vorrections FTs\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\02 Avril 2020- Vorrections FTs\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csprojAssemblyReference.cache
+C:\Users\Expo\Desktop\02 Avril 2020- Vorrections FTs\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\Expo\Desktop\02 Avril 2020- Vorrections FTs\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\02 Avril 2020- Vorrections FTs\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\USER.DELL\source\Week 12- Shapes With CRUD - Solution\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\USER.DELL\source\Week 12- Shapes With CRUD - Solution\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\USER.DELL\source\Week 12- Shapes With CRUD - Solution\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\USER.DELL\source\Week 12- Shapes With CRUD - Solution\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csprojAssemblyReference.cache
+C:\Users\USER.DELL\source\Week 12- Shapes With CRUD - Solution\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\USER.DELL\source\Week 12- Shapes With CRUD - Solution\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\04AVRIL2020-CT2Gr52\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Users\Expo\Desktop\04AVRIL2020-CT2Gr52\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\04AVRIL2020-CT2Gr52\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\04AVRIL2020-CT2Gr52\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\Expo\Desktop\04AVRIL2020-CT2Gr52\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Users\Expo\Desktop\04AVRIL2020-CT2Gr52\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
+C:\Users\Expo\Desktop\04AVRIL2020-CT2Gr52\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csprojAssemblyReference.cache

@@ -1,0 +1,83 @@
+﻿
+ List of all shapes:
+1, rose, Square the area is : 25
+2, violet, Square the area is : 144
+3, green, Circle the area is : 12.56
+4, yellow, Circle the area is : 153.86
+
+ List of all circles:
+3, green, Circle the area is : 12.56
+4, yellow, Circle the area is : 153.86
+
+ List of all squares:
+1, rose, Square the area is : 25
+2, violet, Square the area is : 144
+
+ Search for a shape by serial number:
+ Enter a serial number: 11
+
+ Shape number 11 not found
+
+
+         Do you want to continue? - (type 1 for yes Or 0 for No) : 1
+
+ Search for a shape by serial number:
+ Enter a serial number: 1
+
+ Shape number 1 found
+1, rose, Square the area is : 25
+
+
+         Do you want to continue? - (type 1 for yes Or 0 for No) : 0
+
+ updating shape .....
+ Enter a serial number: 33
+
+ Shape number 33 not found
+
+
+         Do you want to continue? - (type 1 for yes Or 0 for No) : 1
+
+ updating shape .....
+ Enter a serial number: 3
+
+ Shape number 3 found
+
+ Shape number 3
+                3, PURPLE-BLUE, Circle the area is : 12.56
+
+
+         Do you want to continue? - (type 1 for yes Or 0 for No) : 0
+
+ Remove a shape:
+ Enter a serial number of the shape to remove: 44
+
+ Shape number 44 not found
+
+
+         Do you want to continue? - (type 1 for yes Or 0 for No) : 1
+
+ Remove a shape:
+ Enter a serial number of the shape to remove: 4
+
+ Shape number 4 found
+4, yellow, Circle the area is : 153.86
+
+
+         Do you want to continue? - (type 1 for yes Or 0 for No) : 0
+
+ List of all shapes:
+1, rose, Square the area is : 25
+2, violet, Square the area is : 144
+3, PURPLE-BLUE, Circle the area is : 12.56
+
+ List of all circles:
+3, PURPLE-BLUE, Circle the area is : 12.56
+
+ List of all squares:
+1, rose, Square the area is : 25
+2, violet, Square the area is : 144
+
+ END SHAPES
+
+
